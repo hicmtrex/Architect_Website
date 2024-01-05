@@ -2,11 +2,11 @@ repo_name: hicmtrex/Architect_Website
 report_id: 2da347db8ab511a11b9cb1804cd580ae
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:42:59+00:00'
+timestamp: '2024-01-05T08:18:13+00:00'
 requested_by: invalid-email-address
 provider: github
 branch: main
-detected_tools_count: 86
+detected_tools_count: 89
 tools:
 - name: C lang
   description: One of the most widely used programming languages of all time
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -27,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website
   detection_source: Repo Metadata
 - name: D
   description: Modern convenience. Modeling power. Native efficiency.
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3117/d-5.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -47,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2880/1024px-JSON_vector_logo.svg.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -59,6 +63,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/hicmtrex/Architect_Website
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -69,6 +74,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -81,6 +87,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -94,6 +101,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -105,6 +113,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/bootstrap/node_modules/bootstrap-icons/package.json
   detection_source: bootstrap/node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -118,6 +127,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -130,6 +140,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -142,6 +153,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/bootstrap/node_modules/bootstrap-icons/package.json
   detection_source: bootstrap/node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -154,6 +166,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -165,6 +178,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Language Extensions
   image_url: https://img.stackshare.io/service/4709/Xpand_Marke_32x32_400x400.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -177,6 +191,7 @@ tools:
   category: Data Stores
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -188,6 +203,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Collaborative Text Editor
   image_url: https://img.stackshare.io/service/5372/ACE-Cloud9-EDITOR-Social-Media-icon.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -200,6 +216,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/bootstrap/node_modules/bootstrap-icons/package.json
   detection_source: bootstrap/node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -211,6 +228,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -220,6 +238,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -231,6 +250,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -242,6 +262,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -269,6 +290,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Git Tools
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -280,6 +302,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/bootstrap/node_modules/bootstrap-icons/package.json
   detection_source: bootstrap/node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -291,6 +314,7 @@ tools:
   category: Analytics
   sub_category: Business Intelligence
   image_url: https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -303,6 +327,7 @@ tools:
   category: Application Utilities
   sub_category: Static Web Hosting
   image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -315,6 +340,7 @@ tools:
   category: Assets and Media
   sub_category: File Conversion
   image_url: https://img.stackshare.io/service/11914/typ.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -323,6 +349,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4455/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -331,6 +358,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2391/no-img-open-source.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -341,6 +369,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/6473/331jv9hea1czuo3qghna_normal.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -351,6 +380,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/1546/7iT3i191.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -360,6 +390,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/3795/Frame_Logo_Square.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -372,6 +403,7 @@ tools:
   category: Application Utilities
   sub_category: Static Site Generators
   image_url: https://img.stackshare.io/service/1158/default_2e4f7c34f249c9c44d4c0b776018014c06692d03.jpg
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -384,6 +416,7 @@ tools:
   category: Application Utilities
   sub_category: Mapping APIs
   image_url: https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -396,6 +429,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -406,6 +440,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/11077/0Zflj6Y__normal.jpg
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -417,6 +452,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Shell Utilities
   image_url: https://img.stackshare.io/service/101825/default_fee6db27033c9348cbd52a828bd0a3b0776c3ed1.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -429,6 +465,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -438,6 +475,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2634/quvIzEn2_normal.jpg
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -447,6 +485,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/bootstrap/node_modules/bootstrap-icons/package.json
   detection_source: bootstrap/node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -455,6 +494,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2558/111990.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -463,6 +503,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -472,6 +513,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/7802/13189529.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -480,6 +522,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8443/2473585.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/bootstrap/node_modules/bootstrap-icons/package.json
   detection_source: bootstrap/node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -492,6 +535,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -504,6 +548,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -517,6 +562,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -529,7 +575,22 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18731/default_896e971e78d35d9228342aa32100298402d2473b.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
+  last_updated_by: Firstname Lastname
+  last_updated_on: 2021-09-01 05:24:22.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/bootstrap/node_modules/bootstrap-icons/package.json
+  detection_source: bootstrap/node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
 - name: cheerio
@@ -555,6 +616,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15942/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -567,6 +629,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17384/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -579,6 +642,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16007/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -591,6 +655,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17998/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -603,6 +668,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16353/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -629,6 +695,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17017/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -641,6 +708,20 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16161/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
+  detection_source: node_modules/bootstrap-icons/package.json
+  last_updated_by: Firstname Lastname
+  last_updated_on: 2021-09-01 05:24:22.000000000 Z
+- name: ffi
+  description: A foreign function interface
+  package_url: https://www.npmjs.com/ffi
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17812/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -653,6 +734,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16751/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -665,6 +747,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18039/image.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -677,6 +760,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17059/default_31b594d049ba66ce98c924544ccc4329a3f2d530.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -688,6 +772,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -700,6 +785,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17546/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -712,6 +798,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -724,6 +811,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17838/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -736,6 +824,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -748,6 +837,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17544/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -760,6 +850,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17983/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -772,6 +863,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16247/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -784,6 +876,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16105/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -810,6 +903,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18695/default_ba22650903e999378ab35f8093d2d808f0a46039.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -822,6 +916,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16245/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -834,6 +929,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17784/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -846,6 +942,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16082/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -858,6 +955,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17469/default_2a4dc012d9584af49ba34825451ae7a5a8d75e4b.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -884,6 +982,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18190/default_b56a957d927d2e40d2c7cf9f3588b95c4df2c97c.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -896,6 +995,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16813/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -908,6 +1008,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18418/default_4d27e57a415c059481cbe1fd0734523c261d311a.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -920,6 +1021,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -932,6 +1034,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16128/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -944,6 +1047,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16484/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -956,7 +1060,22 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18455/default_d8e945bfec4c4a608fb0493abf73c9ec1cffc9a2.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
+  last_updated_by: Firstname Lastname
+  last_updated_on: 2021-09-01 05:24:22.000000000 Z
+- name: svgo
+  description: Nodejs-based tool for optimizing SVG vector graphics files
+  package_url: https://www.npmjs.com/svgo
+  version: 2.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16716/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/bootstrap/node_modules/bootstrap-icons/package.json
+  detection_source: bootstrap/node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
 - name: tar
@@ -968,6 +1087,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -980,6 +1100,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18204/default_329699d382cad74e0d389300999bd267b9699d3f.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
@@ -992,6 +1113,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/hicmtrex/Architect_Website/blob/main/node_modules/bootstrap-icons/package.json
   detection_source: node_modules/bootstrap-icons/package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2021-09-01 05:24:22.000000000 Z
