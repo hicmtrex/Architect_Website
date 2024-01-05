@@ -74,7 +74,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [hicmtrex/Architect_Website](https://github.com/hicmtrex/Architect_Website)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|86<br/>Tools used|12/21/23 <br/>Report generated|
+|89<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -467,9 +467,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (42)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (45)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (42)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (45)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -477,6 +477,7 @@ Full tech stack [here](/techstack.md)
 |[ai](https://www.npmjs.com/ai)|N/A|09/01/21|Firstname Lastname |N/A|N/A|
 |[bl](https://www.npmjs.com/bl)|N/A|09/01/21|Firstname Lastname |MIT|N/A|
 |[cac](https://www.npmjs.com/cac)|N/A|09/01/21|Firstname Lastname |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v4.1.0|09/01/21|Firstname Lastname |MIT|N/A|
 |[cheerio](https://www.npmjs.com/cheerio)|v1.0.0|09/01/21|Firstname Lastname |MIT|N/A|
 |[classnames](https://www.npmjs.com/classnames)|N/A|09/01/21|Firstname Lastname |MIT|N/A|
 |[cli](https://www.npmjs.com/cli)|N/A|09/01/21|Firstname Lastname |MIT|N/A|
@@ -486,6 +487,7 @@ Full tech stack [here](/techstack.md)
 |[cross-env](https://www.npmjs.com/cross-env)|v7.0.3|09/01/21|Firstname Lastname |MIT|N/A|
 |[css](https://www.npmjs.com/css)|N/A|09/01/21|Firstname Lastname |MIT|N/A|
 |[extend](https://www.npmjs.com/extend)|N/A|09/01/21|Firstname Lastname |MIT|N/A|
+|[ffi](https://www.npmjs.com/ffi)|N/A|09/01/21|Firstname Lastname |MIT|N/A|
 |[github](https://www.npmjs.com/github)|N/A|09/01/21|Firstname Lastname |MIT|N/A|
 |[has](https://www.npmjs.com/has)|N/A|09/01/21|Firstname Lastname |MIT|N/A|
 |[he](https://www.npmjs.com/he)|N/A|09/01/21|Firstname Lastname |MIT|N/A|
@@ -512,6 +514,7 @@ Full tech stack [here](/techstack.md)
 |[resolve](https://www.npmjs.com/resolve)|N/A|09/01/21|Firstname Lastname |MIT|N/A|
 |[serve](https://www.npmjs.com/serve)|N/A|09/01/21|Firstname Lastname |MIT|N/A|
 |[st](https://www.npmjs.com/st)|N/A|09/01/21|Firstname Lastname |ISC|N/A|
+|[svgo](https://www.npmjs.com/svgo)|v2.3.0|09/01/21|Firstname Lastname |MIT|N/A|
 |[tar](https://www.npmjs.com/tar)|N/A|09/01/21|Firstname Lastname |ISC|N/A|
 |[test](https://www.npmjs.com/test)|N/A|09/01/21|Firstname Lastname |MIT|N/A|
 |[url](https://www.npmjs.com/url)|N/A|09/01/21|Firstname Lastname |MIT|N/A|
